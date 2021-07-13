@@ -1,0 +1,14 @@
+body{
+    background-color: red;
+}
+
+#first{
+    background-color: aqua;
+}
+#second{
+    background-color: blanchedalmond;
+}
+.bg-blue{
+    background-color: blue;
+    color:white;
+}
